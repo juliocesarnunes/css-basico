@@ -1,0 +1,42 @@
+div {
+	border: 1px solid gray;
+	background: white;
+
+}
+.card {
+	padding: 14px;
+	box-shadow: 10px 5px 5px #dedede;
+}
+
+img {
+	width: 100%;
+
+}
+
+ul {
+	padding: 0;
+}
+
+ul li {
+	list-style-type: none;
+	padding: 0 0 0 15px;
+}
+
+
+p {
+	padding: 15px;
+}
+
+h3 {
+	font-size: 25px;
+}
+.container {
+	padding: 15px;
+	border: none;
+	width: 480px;
+	margin: 0 auto;
+}
+body {
+	background: rgb(222, 222, 222);
+
+}
